@@ -1,0 +1,24 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "API practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justKishore/API-practice.git"
+  },
+  "author": "Kishore S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justKishore/API-practice/issues"
+  },
+  "homepage": "https://github.com/justKishore/API-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "sv443-joke-api": "^0.1.0"
+  }
+}
